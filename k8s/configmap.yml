@@ -8,3 +8,6 @@ data:
   HOST: "0.0.0.0"
   PORT: "5173"
   VITE_HOST: "0.0.0.0"
+  DATABASE_NAME: "rds-database"
+  CDD_VERSION: "10.2.0.4"
+  AIS_VERSION: "10.4.0.0"
