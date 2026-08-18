@@ -28,3 +28,10 @@ spec:
   SAP_VERSION: "10.0.0.0"
 
     #tum sbki mkc
+
+  AIS: NA
+  RCM: NA 
+  ACTONE: NA 
+  UDM: NA 
+  IR:  NA 
+  RCM_APP_sERVER: NA

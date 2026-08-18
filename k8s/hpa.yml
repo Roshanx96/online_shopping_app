@@ -24,3 +24,10 @@ spec:
         type: Utilization
         averageUtilization: 80
   #tum sbki mkc
+
+  AIS: NA
+  RCM: NA 
+  ACTONE: NA 
+  UDM: NA 
+  IR:  NA 
+  RCM_APP_sERVER: NA

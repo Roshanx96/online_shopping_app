@@ -14,5 +14,12 @@ data:
   SAP_VERSION: "10.0.0.0"
   IFM: 00.00.00.00 #DEMO_BRANCH
 
+  AIS: NA
+  RCM: NA 
+  ACTONE: NA 
+  UDM: NA 
+  IR:  NA 
+  RCM_APP_sERVER: NA
+
 
   #tum sbki mkc
